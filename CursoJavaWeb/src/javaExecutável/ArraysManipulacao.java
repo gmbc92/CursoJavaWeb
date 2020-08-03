@@ -1,6 +1,6 @@
 package javaExecutável;
 
-import javax.swing.JOptionPane;
+
 
 import javaClasses.Aluno;
 import javaClasses.Disciplina;
